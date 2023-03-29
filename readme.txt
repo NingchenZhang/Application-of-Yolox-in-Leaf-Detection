@@ -1,0 +1,1 @@
+The initial source of the code is https://github.com/bubbliiiing/yolox-pytorch, and the project is modified according to https://github.com/bubbliiiing/yolox-pytorch
